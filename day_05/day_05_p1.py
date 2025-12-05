@@ -1,5 +1,3 @@
-# day05.py
-
 def parse_ranges(lines):
     ranges = []
     for line in lines:
@@ -18,7 +16,7 @@ def merge_ranges(ranges):
 
     for start, end in ranges[1:]:
         last_start, last_end = merged[-1]
-        if start <= last_end + 1:  # overlapping or touching
+        if start <= last_end + 1:
             merged[-1] = (last_start, max(last_end, end))
         else:
             merged.append((start, end))
@@ -38,11 +36,10 @@ def count_fresh_ids(merged, ingredients):
     return fresh_count
 
 
-def solve():
+def solveDay_05():
     with open("day_05.txt") as f:
         lines = f.read().strip().splitlines()
 
-    # Split into ranges and ingredient IDs
     blank_index = lines.index("")
     range_lines = lines[:blank_index]
     id_lines = lines[blank_index + 1:]
@@ -57,4 +54,4 @@ def solve():
 
 
 if __name__ == "__main__":
-    solve()
+    solveDay_05()
