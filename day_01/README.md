@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 1: *Secret Entrance* 🔐
 
+<img width="1346" height="826" alt="Screenshot 2025-12-01 235024" src="https://github.com/user-attachments/assets/0e2a9005-8cb5-4190-8f79-cc7d93e93af8" />
+
+
 ## 📘 Challenge Summary
 The elves set up a giant circular lock with **100 positions (0–99)**.  
 You begin at **position 50** and follow a sequence of rotations like `L68`, `R23`, etc.
@@ -7,9 +10,15 @@ You begin at **position 50** and follow a sequence of rotations like `L68`, `R23
 ### **Part 1 – Count zeroes at the *end* of rotations**
 Every time a rotation finishes *exactly* at position `0`, increment the password.
 
+<img width="1404" height="639" alt="Screenshot 2025-12-01 215012" src="https://github.com/user-attachments/assets/b9bd17ba-76fb-4ba0-ac2b-540f18aa54a1" />
+
+
 ### **Part 2 – Count *every* time the dial hits 0**
 A rotation may pass through `0` many times.  
 Example: Starting at 50 → `R1000` hits `0` **10 times**.
+
+<img width="1403" height="678" alt="Screenshot 2025-12-01 234915" src="https://github.com/user-attachments/assets/be4a4c41-1289-4c3b-b8ea-8ab8170ddeff" />
+
 
 Your task: Using the rotation list, compute the final password.
 

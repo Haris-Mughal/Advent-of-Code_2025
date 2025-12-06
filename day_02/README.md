@@ -15,6 +15,9 @@ An ID is invalid if it consists of:
 Your goal:  
 ➡️ **Find all invalid IDs within the given ranges and sum them.**
 
+<img width="1396" height="651" alt="Screenshot 2025-12-03 203815" src="https://github.com/user-attachments/assets/3d8f7986-ffe3-43ac-bd19-528b857473d0" />
+
+
 ---
 
 ### **Part 2**
@@ -24,6 +27,9 @@ The Elf was more chaotic than expected. Now an invalid ID is:
 
 Your goal:  
 ➡️ **Find all such invalid IDs and sum them.**
+
+<img width="1394" height="652" alt="Screenshot 2025-12-03 204038" src="https://github.com/user-attachments/assets/8bc90827-0eff-4fd3-b8ba-8de7c605fe8b" />
+
 
 ---
 

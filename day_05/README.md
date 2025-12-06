@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 5: *Cafeteria*    
 Fresh or spoiled? The Elves' holiday feast depends on it!  
+
+<img width="1433" height="797" alt="Screenshot 2025-12-05 201136" src="https://github.com/user-attachments/assets/4da433ad-bb82-47a7-94c0-cab9a5ca8ae8" />
+
 ---
 
 ## 📌 Challenge Summary
@@ -15,6 +18,9 @@ If an ID falls inside **any** fresh range, it’s considered fresh.
 **Your goal:**  
 Count how many available ingredient IDs are fresh.
 
+<img width="1398" height="643" alt="Screenshot 2025-12-05 201006" src="https://github.com/user-attachments/assets/996a3975-8be6-4568-8e3e-68593a2b79f9" />
+
+
 ---
 
 ### **Part 2**
@@ -24,6 +30,9 @@ How many *total unique ID values* exist across all the fresh ranges?
 
 **Your goal:**  
 Merge all overlapping ranges and count every number they cover.
+
+<img width="1404" height="650" alt="Screenshot 2025-12-05 201113" src="https://github.com/user-attachments/assets/3de11f97-778e-4acb-baff-77490a8cabde" />
+
 
 ---
 

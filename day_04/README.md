@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 4: *Printing Department*  
 Help the Elves optimize forklift access to paper rolls in a large grid, maximizing how many rolls they can remove.
+
+<img width="1403" height="715" alt="Screenshot 2025-12-04 101353" src="https://github.com/user-attachments/assets/319b5033-92bb-4fbc-86db-47126b14203f" />
+
 ---
 
 ## 📌 Challenge Summary
@@ -12,6 +15,9 @@ Count the number of rolls a forklift can initially access (fewer than 4 adjacent
 Your goal:  
 Identify accessible rolls for immediate removal.
 
+<img width="1403" height="735" alt="Screenshot 2025-12-04 101133" src="https://github.com/user-attachments/assets/bf102ad2-f01f-4241-9d2e-9ead2654697d" />
+
+
 ---
 
 ### **Part 2**
@@ -19,6 +25,8 @@ Simulate repeated removal of accessible rolls until no more rolls can be accesse
 
 Your goal:  
 Calculate the total rolls that can be removed through cascading forklift actions.
+
+<img width="1428" height="643" alt="Screenshot 2025-12-04 101253" src="https://github.com/user-attachments/assets/a8f0c24b-4d13-481f-a55f-33726f945e8c" />
 
 ---
 
