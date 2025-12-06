@@ -23,7 +23,7 @@ Each problem contains:
 Your goal:  
 ➡️ **Extract each problem, perform the operation, and sum all problem results.**
 
-<img width="1412" height="675" alt="image" src="https://github.com/user-attachments/assets/0ff4fedc-e8c9-44ad-ba0a-8d15787b41d4" />
+<img width="1412" height="675" alt="image" src="https://github.com/user-attachments/assets/a1acd055-0656-4af3-a327-c588c63a2028" />
 
 
 ---
