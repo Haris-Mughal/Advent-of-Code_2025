@@ -1,5 +1,9 @@
 # 🎄 Advent of Code 2025 — Day 6: *Trash Compactor*  
 Cephalopod-style math… but written in the weirdest possible layout.  
+
+<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/ca074e85-ba6c-4201-a857-4207df4774fe" />
+
+
 ---
   
 ## 📌 Challenge Summary
@@ -19,6 +23,9 @@ Each problem contains:
 Your goal:  
 ➡️ **Extract each problem, perform the operation, and sum all problem results.**
 
+<img width="1441" height="695" alt="Screenshot 2025-12-06 144343" src="https://github.com/user-attachments/assets/13d0869d-a9fb-4c85-9f47-0e755f27e0bf" />
+
+
 ---
 
 ### **Part 2**
@@ -31,6 +38,8 @@ Each problem block now:
 
 Your goal:  
 ➡️ **Build numbers column-wise, compute each problem, and sum all answers.**
+
+<img width="1412" height="675" alt="image" src="https://github.com/user-attachments/assets/371debee-977f-4e3d-aa32-909af1a35126" />
 
 ---
 
