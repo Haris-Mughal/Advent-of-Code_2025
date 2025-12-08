@@ -1,6 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 7: *Laboratories*  
 🧪 Tachyon beams, splitters, and quantum timelines — a strange day in the teleporter hub.
 
+<img width="1437" height="795" alt="image" src="https://github.com/user-attachments/assets/a5e7c2a4-0b29-47c0-92e2-ab2d3cf2fc58" />
+
 ---
   
 ## 📌 Challenge Summary
@@ -19,6 +21,8 @@ A single beam moves downward. Whenever it hits a splitter:
 Your goal:  
 ➡️ **Count how many total beam splits occur until all beams leave the manifold.**
 
+<img width="1395" height="718" alt="Screenshot 2025-12-07 153241" src="https://github.com/user-attachments/assets/2d229a8f-1471-4545-b465-19e8f04a7562" />
+
 ---
 
 ### **Part 2**
@@ -30,6 +34,8 @@ Here, a single tachyon particle takes **both paths** each time it hits a splitte
 
 Your goal:  
 ➡️ **Count how many distinct timelines exist after exploring every possible path.**
+
+<img width="1421" height="646" alt="image" src="https://github.com/user-attachments/assets/b00a98e6-e66d-4288-8af6-ef626a232d1a" />
 
 ---
 
