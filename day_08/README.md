@@ -18,7 +18,7 @@ Compute connected components by linking the K closest pairs of points.
 Your goal:  
 Determine the sizes of the largest three components and return their product.  
 
-<img width="1409" height="756" alt="image" src="https://github.com/user-attachments/assets/fe35aeb2-a05e-4fc1-b278-0bba3533cdeb" />
+<img width="1406" height="728" alt="Screenshot 2025-12-08 102343" src="https://github.com/user-attachments/assets/d8623fcb-317d-4ad6-bde5-1ec384fdb125" />
 
 ---
 
