@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 8: *Playground*    
 Exploring 3D junction boxes and connecting them efficiently.  
+
+<img width="1425" height="825" alt="image" src="https://github.com/user-attachments/assets/fec01337-9dd1-441e-8a86-6df81a91a480" />
+
 ---
 
 ## 📌 Challenge Summary
@@ -15,6 +18,8 @@ Compute connected components by linking the K closest pairs of points.
 Your goal:  
 Determine the sizes of the largest three components and return their product.  
 
+<img width="1409" height="756" alt="image" src="https://github.com/user-attachments/assets/fe35aeb2-a05e-4fc1-b278-0bba3533cdeb" />
+
 ---
 
 ### **Part 2**
@@ -22,6 +27,9 @@ Continue connecting closest unconnected pairs until all boxes are part of one ci
 
 Your goal:  
 Find the last pair connected and return the product of their X coordinates.  
+
+
+<img width="1409" height="756" alt="image" src="https://github.com/user-attachments/assets/4349245e-4cf0-4f0a-93e2-e992810d1fdf" />
 
 ---
 
