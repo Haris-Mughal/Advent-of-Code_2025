@@ -36,6 +36,7 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | 06  | Trash Compactor        | ✅ `5335495999141`           | ✅ `10142723156431`                                | ⭐⭐         |
 | 07  | Laboratories        | ✅ `1660`           | ✅ `305999729392659`                                | ⭐⭐         |
 | 08  | Playground        | ✅ `62186`           | ✅ `8420405530`                                | ⭐⭐         |
+| 09  | Rope Bridge Tiles        | ✅ `4781546175`           | ✅ `1573359081`                                | ⭐⭐         |
 
 ---
 
