@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 — Day 9: *Rope Bridge Tiles*  
 Maximizing rectangles on a red & green tile grid.  
+
+<img width="1425" height="795" alt="image" src="https://github.com/user-attachments/assets/50ac703d-4766-42ab-aa63-588431f43bb8" />
+
 ---
 
 ## 📌 Challenge Summary
@@ -12,6 +15,9 @@ Count how many tiles are covered by the loop of red and green tiles.
 Your goal:  
 Identify all red and green tiles to compute coverage.  
 
+<img width="1403" height="663" alt="Screenshot 2025-12-09 100527" src="https://github.com/user-attachments/assets/e8081c92-0d7a-4056-b8f2-6784d9d96c91" />
+
+
 ---
 
 ### **Part 2**
@@ -19,6 +25,9 @@ Find the largest rectangle with **red tiles at opposite corners** and only inclu
 
 Your goal:  
 Determine the maximum area of any rectangle that fits entirely inside the allowed tiles.  
+
+<img width="1419" height="715" alt="Screenshot 2025-12-09 110352" src="https://github.com/user-attachments/assets/d89a371f-ec93-42d8-9487-4bd7822edcfb" />
+
 
 ---
 
