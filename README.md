@@ -34,6 +34,7 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | 04  | Printing Department        | ✅ `1551`           | ✅ `9784`                                | ⭐⭐         |
 | 05  | Cafeteria        | ✅ `744`           | ✅ `347468726696961`                                | ⭐⭐         |
 | 06  | Trash Compactor        | ✅ `5335495999141`           | ✅ `10142723156431`                                | ⭐⭐         |
+| 07  | Laboratories        | ✅ `1660`           | ✅ `305999729392659`                                | ⭐⭐         |
 
 ---
 
