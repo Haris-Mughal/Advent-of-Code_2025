@@ -31,7 +31,8 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | 01  | Secret Entrance        | ✅ `1139`           | ✅ `6684`                                | ⭐⭐         |
 | 02  | Gift Shop        | ✅ `17077011375`           | ✅ `36037497037`                                | ⭐⭐         |
 | 03  | Lobby        | ✅ `17408`           | ✅ `172740584266849`                                | ⭐⭐         |
-| 03  | Printing Department        | ✅ `1551`           | ✅ `9784`                                | ⭐⭐         |
+| 04  | Printing Department        | ✅ `1551`           | ✅ `9784`                                | ⭐⭐         |
+| 05  | Cafeteria        | ✅ `744`           | ✅ `347468726696961`                                | ⭐⭐         |
 
 ---
 
