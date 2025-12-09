@@ -24,9 +24,24 @@ This repo contains my solutions implemented in **Python**, along with clear note
 
 ---
 
-## ⭐ Follow My Journey
+## 📚 Table of Contents
 
-Check out my [Advent of Code 2025 Day-wise Solutions](https://github.com/Haris-Mughal/Advent-of-Code_2025) and enjoy the festive coding fun! 🎅🎁
+| Day | Puzzle Title              | Part 1 Solution         | Part 2 Solution                              | Stars Earned  |
+| --- | ------------------------- | ---------------------   | -------------------------------------------- | ------------- |
+| 01  | Historian Hysteria        | ✅ `1646452`           | ✅ `23609874`                                | ⭐⭐         |
+| 02  | Red-Nosed Reports         | ✅ `411`               | ✅ `465`                                     | ⭐⭐         |
+| 03  | Mull It Over              | ✅ `170778545`         | ✅ `82868252`                                | ⭐⭐         |
+| 04  | Ceres Search              | ✅ `2583`              | ✅ `1978`                                    | ⭐⭐         |
+| 05  | Print Queue               | ✅ `6949`              | ✅ `4145`                                    | ⭐⭐         |
+| 06  | Guard Gallivant           | ✅ `4778`              | ✅ `1618`                                    | ⭐⭐         |
+| 07  | Bridge Repair             | ✅ `2654749936343`     | ✅ `124060392153684`                         | ⭐⭐         |
+| 08  | Resonant Collinearity     | ✅ `301`               | ✅ `1019`                                    | ⭐⭐         |
+| 09  | Disk Fragmenter           | ✅ `6435922584968`     | ✅ `6469636832766`                           | ⭐⭐         |
+
+---
+
+## ⭐ Follow me on [Github](https://github.com/Haris-Mughal) :)
+
 
 ## Code with ❤️ by Haris.
 [Linkedin](https://www.linkedin.com/in/iamharisahsan/)
