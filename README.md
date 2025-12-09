@@ -29,6 +29,7 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | Day | Puzzle Title              | Part 1 Solution         | Part 2 Solution                              | Stars Earned  |
 | --- | ------------------------- | ---------------------   | -------------------------------------------- | ------------- |
 | 01  | Secret Entrance        | ✅ `1139`           | ✅ `6684`                                | ⭐⭐         |
+| 02  | Gift Shop        | ✅ `17077011375`           | ✅ `36037497037`                                | ⭐⭐         |
 
 ---
 
