@@ -25,7 +25,7 @@ Determine the maximum area of any rectangle that fits entirely inside the allowe
 ## 🧪 Sample Example & Outputs
 
 Example tiles:  
-
+```
 ..............
 .......#XXX#..
 .......XXXXX..
@@ -35,7 +35,7 @@ Example tiles:
 .........XXX..
 .........#X#..
 ..............
-
+```
 
 ### **Example Results**
 - Largest rectangle area (Part 2): `24`  
