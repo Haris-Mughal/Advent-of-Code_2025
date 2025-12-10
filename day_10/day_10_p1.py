@@ -175,12 +175,9 @@ def solve_file(filename: str) -> None:
                     mask |= (1 << j)
             rows_masks.append(mask)
 
-        min_presses = solve_min_weight(rows_masks, b_bits, n)
-        machines_min.append(min_presses)
-        print(f"Machine {idx+1}: min presses = {min_presses}")
+        machines_min.append(solve_min_weight(rows_masks, b_bits, n))
 
-    total = sum(machines_min)
-    print("\nTotal minimal presses across all machines:", total)
+    print(sum(machines_min))
 
 if __name__ == "__main__":
     FILE = "day_10.txt"
