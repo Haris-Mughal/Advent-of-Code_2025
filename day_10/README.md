@@ -15,7 +15,7 @@ Goal: Minimize total button presses for all machines.
 Lights are initially off. Each button toggles specific lights.  
 Your goal: Press buttons the fewest times so that all machine lights match the target diagrams.
 
-
+<img width="1412" height="637" alt="Screenshot 2025-12-10 100317" src="https://github.com/user-attachments/assets/41041609-fd74-4a3e-b08f-a71b7a6e3160" />
 
 ---
 
