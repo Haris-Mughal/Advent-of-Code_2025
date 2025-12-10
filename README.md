@@ -10,7 +10,7 @@ Here you'll find all my solutions for 12 days, crafted in an efficient and reada
 **Advent of Code** is an annual coding challenge with fun, festive puzzles for each day of December.  
 This repo contains my solutions implemented in **Python**, along with clear notes, examples, and outputs.
 
-<img width="1425" height="825" alt="image" src="https://github.com/user-attachments/assets/c4e7920f-0208-416a-a91f-81d44640f992" />
+<img width="1425" height="795" alt="image" src="https://github.com/user-attachments/assets/21b038d6-feb3-43b9-a4f8-f0f21174980a" />
 
 
 ---
@@ -24,9 +24,25 @@ This repo contains my solutions implemented in **Python**, along with clear note
 
 ---
 
-## ⭐ Follow My Journey
+## 📚 Table of Problem Days
 
-Check out my [Advent of Code 2025 Day-wise Solutions](https://github.com/Haris-Mughal/Advent-of-Code_2025) and enjoy the festive coding fun! 🎅🎁
+| Day | Puzzle Title              | Part 1 Solution           | Part 2 Solution                     | Stars Earned  |
+| --- | ------------------------- | ------------------------  | ----------------------------------- | ------------- |
+| 01  | Secret Entrance           | ✅ `1139`                | ✅ `6684`                           | ⭐⭐         |
+| 02  | Gift Shop                 | ✅ `17077011375`         | ✅ `36037497037`                    | ⭐⭐         |
+| 03  | Lobby                     | ✅ `17408`               | ✅ `172740584266849`                | ⭐⭐         |
+| 04  | Printing Department       | ✅ `1551`                | ✅ `9784`                           | ⭐⭐         |
+| 05  | Cafeteria                 | ✅ `744`                 | ✅ `347468726696961`                | ⭐⭐         |
+| 06  | Trash Compactor           | ✅ `5335495999141`       | ✅ `10142723156431`                 | ⭐⭐         |
+| 07  | Laboratories              | ✅ `1660`                | ✅ `305999729392659`                | ⭐⭐         |
+| 08  | Playground                | ✅ `62186`               | ✅ `8420405530`                     | ⭐⭐         |
+| 09  | Rope Bridge Tiles         | ✅ `4781546175`          | ✅ `1573359081`                     | ⭐⭐         |
+| 10  | Coming...                 |     X                    |      X                               | **            |
+
+---
+
+## ⭐ Follow me on [Github](https://github.com/Haris-Mughal) :)
+
 
 ## Code with ❤️ by Haris.
 [Linkedin](https://www.linkedin.com/in/iamharisahsan/)
