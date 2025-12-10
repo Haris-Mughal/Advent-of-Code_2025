@@ -148,7 +148,7 @@ def solve_min_weight(rows_masks: List[int], rhs_bits: List[int], n_vars: int) ->
 
     return best
 
-def solve_file(filename: str) -> None:
+def solveDay_10(filename: str) -> None:
     machines_min = []
     with open(filename, "r", encoding="utf-8") as f:
         lines = [ln.rstrip("\n") for ln in f if ln.strip() != ""]
@@ -180,8 +180,4 @@ def solve_file(filename: str) -> None:
     print(sum(machines_min))
 
 if __name__ == "__main__":
-    FILE = "day_10.txt"
-    try:
-        solve_file(FILE)
-    except FileNotFoundError:
-        print(f"Input file '{FILE}' not found. Please create the file in the same directory and try again.")
+    solveDay_10("day_10.txt")
