@@ -38,7 +38,8 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | 08  | Playground                | ✅ `62186`               | ✅ `8420405530`                     | ⭐⭐         |
 | 09  | Rope Bridge Tiles         | ✅ `4781546175`          | ✅ `1573359081`                     | ⭐⭐         |
 | 10  | Factory                   | ✅ `502`                 | ✅ `21467`                          | ⭐⭐         |
-| 11  | Coming...                 |     X                    |      X                               | **            |
+| 11  | Reactor                   | ✅ `696`                 | ✅ `473741288064360`                | ⭐⭐         |
+| 12  | Coming...                 |     X                    |      X                               | **            |
 
 ---
 
