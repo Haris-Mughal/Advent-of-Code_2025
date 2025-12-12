@@ -1,5 +1,7 @@
 # 🎄 Advent of Code 2025 — Day 12: *Christmas Tree Farm*     
 A spatial-packing challenge where uniquely shaped presents must fit perfectly under each Christmas tree.  
+<img width="1442" height="821" alt="image" src="https://github.com/user-attachments/assets/39c40b05-d4d3-42f5-b97d-1590f6f61807" />
+
 
 ---
 
@@ -21,14 +23,12 @@ Your goal:
 ✔ Perform optimized placement using bitmasks + backtracking  
 ✔ Count how many regions can fully accommodate all presents
 
+<img width="1418" height="724" alt="image" src="https://github.com/user-attachments/assets/1ea3766f-34eb-49dc-9ef8-a8d317175e84" />
+
 ---
 
 ### **Part 2**
-Similar logic — but with expanded constraints and harder layouts (varies per actual Day 12 puzzle extension).
-
-Your goal:  
-✔ Reuse the optimized solver  
-✔ Handle more complex or additional requirements for the extended task  
+Got built Christmas Tree Farm and got the final start ⭐
 
 ---
 
@@ -45,8 +45,7 @@ Given the example from the problem statement:
 - Region 3 → ❌ **Does Not Fit**
 
 ### **Example Sums**
-- **Part 1 Sample Sum:** `2`  
-- **Part 2 Sample Sum:** `N/A` (depends on your puzzle variant)
+- **Sample Sum:** `2`  
 
 ---
 
@@ -64,11 +63,7 @@ This ensures excellent performance even on large regions.
 
 ---
 
-## 🏁 Results (Based on My Actual Input)
-
-| Part | Answer |
-|------|--------|
-| **1** | **2** |
-| **2** | **541** |
+## 🏁 Result (Based on My Actual Input)
+541
 
 ---
