@@ -30,6 +30,9 @@ Your goal:
 ### **Part 2**
 Got built Christmas Tree Farm and got the final start ⭐
 
+<img width="1021" height="676" alt="image" src="https://github.com/user-attachments/assets/0e3af032-a45b-43dd-8cad-b7b126ca61e0" />
+
+
 ---
 
 ## 🧪 Sample Example & Outputs
