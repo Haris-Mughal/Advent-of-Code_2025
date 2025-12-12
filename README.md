@@ -10,7 +10,7 @@ Here you'll find all my solutions for 12 days, crafted in an efficient and reada
 **Advent of Code** is an annual coding challenge with fun, festive puzzles for each day of December.  
 This repo contains my solutions implemented in **Python**, along with clear notes, examples, and outputs.
 
-<img width="1408" height="817" alt="image" src="https://github.com/user-attachments/assets/6d3776ec-09a2-48f4-aec1-2684c7dbb632" />
+<img width="1417" height="824" alt="image" src="https://github.com/user-attachments/assets/f1ee0c87-9bf1-48dd-8fc9-8d2e85347ed5" />
 
 
 ---
@@ -38,7 +38,8 @@ This repo contains my solutions implemented in **Python**, along with clear note
 | 08  | Playground                | ✅ `62186`               | ✅ `8420405530`                     | ⭐⭐         |
 | 09  | Rope Bridge Tiles         | ✅ `4781546175`          | ✅ `1573359081`                     | ⭐⭐         |
 | 10  | Factory                   | ✅ `502`                 | ✅ `21467`                          | ⭐⭐         |
-| 11  | Coming...                 |     X                    |      X                               | **            |
+| 11  | Reactor                   | ✅ `696`                 | ✅ `473741288064360`                | ⭐⭐         |
+| 12  | Coming...                 |     X                    |      X                               | **            |
 
 ---
 
